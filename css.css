@@ -113,3 +113,9 @@ p {
 .clear {
   clear: both;
 }
+
+@media only screen and (min-width: 480px) {
+	li {
+  	font-size: 40px;
+	}
+}
