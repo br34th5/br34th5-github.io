@@ -114,16 +114,13 @@ p {
   clear: both;
 }
 
+/* pamegink patobulinti ir pagrazinti puslapio isvaizda per mobilia rezoliucija */
 @media only screen and (max-width: 480px) and (orientation: portrait) {
 	li {
   	font-size: 32px;
 	}
 
-	p {
-	font-size: 24px;
-	}
-
-	h3 {
+	p, h3 {
 	font-size: 24px;
 	}
 }
