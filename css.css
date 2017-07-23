@@ -115,7 +115,7 @@ p {
 }
 
 /* pamegink patobulinti ir pagrazinti puslapio isvaizda per mobilia rezoliucija */
-@media only screen and (max-width: 480px) and (orientation: portrait) {
+@media only screen and (max-width: 480px){
 	li {
   	font-size: 28px;
 	}
